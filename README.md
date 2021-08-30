@@ -26,4 +26,4 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Deployment is done on [Netlify](https://netlify.com).
+Deployment is done on [Netlify](https://netlify.com) here: https://astrax-api-docs.netlify.app.
