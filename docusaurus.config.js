@@ -13,6 +13,7 @@ module.exports = {
   organizationName: "bajetech", // Usually your GitHub org/user name.
   projectName: "astrax-docs", // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: "AstraX Documentation",
       logo: {
