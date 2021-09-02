@@ -1,5 +1,5 @@
 ---
-id: using-astrax-node
+id: usingAstraXNode
 title: Using AstraX in Node.js
 sidebar_position: 3
 ---

@@ -1,5 +1,5 @@
 ---
-id: using-astrax-browser
+id: usingAstraXBrowser
 title: Using AstraX in the browser
 sidebar_position: 4
 ---
