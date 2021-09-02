@@ -1,5 +1,7 @@
 # AstraX Docs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ba4fb0d-912e-44f5-ad6f-e1e42d1a88e0/deploy-status)](https://app.netlify.com/sites/astrax-api-docs/deploys)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
