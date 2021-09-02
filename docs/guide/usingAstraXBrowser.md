@@ -10,7 +10,7 @@ We now have an extension installed on our machine and a library to interact with
 
 First import the library in the `<head>` tag of your page.
 
-- Install the packaged library via _npm_ or _yarn_ first (see [Getting Started](./getting-started.md)), then import it via a script tag using the minified file found at `node_modules/@bajetech/astrax-api/build/index.min.js` (be sure to copy the file to a specific folder in your project and import that copy, e.g. `assets/js/astrax-api/index.min.js`. Do NOT directly link to the file in the node_modules folder.)
+- Install the packaged library via _npm_ or _yarn_ first (see [Getting Started](./gettingStarted.md)), then import it via a script tag using the minified file found at `node_modules/@bajetech/astrax-api/build/index.min.js` (be sure to copy the file to a specific folder in your project and import that copy, e.g. `assets/js/astrax-api/index.min.js`. Do NOT directly link to the file in the node_modules folder.)
 
 ```html
 <head>
