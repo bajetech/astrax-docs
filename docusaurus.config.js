@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "AstraX Documentation",
-  tagline: "Dinosaurs are cool",
+  tagline: "Docs for the AstraX web extension",
   url: "https://astrax-api-docs.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
