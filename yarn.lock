@@ -1150,10 +1150,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@bajetech/astrax-api@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@bajetech/astrax-api/-/astrax-api-1.0.2.tgz#6c6c9bdbf04a4e1852c7f0e78175117507c2a088"
-  integrity sha512-R9lpSf/mtNqsnBcpQ6ahSJJATRPDm7yF5gg/NEKhQM/Z8xQjCEiFkSzAAB5t9RqUOfPdVWpYn6YDawg3R0Sl0g==
+"@bajetech/astrax-api@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@bajetech/astrax-api/-/astrax-api-1.0.4.tgz#b56554cd494415bcfd22dff3a52761d155d2af6b"
+  integrity sha512-RnFE0OPRAafXbc1zV3yP7dNVjfu+d8TkNCqoc4nQyi1MUoDyXSB3387YvDPSWNXxaqV+/Pkvpkyk2BnoF0c/4g==
   dependencies:
     "@stellar/prettier-config" "^1.0.1"
     "@stellar/wallet-sdk" "^0.5.0-rc.0"
